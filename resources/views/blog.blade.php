@@ -25,9 +25,9 @@
         <td>Content</td>
         <td>:</td>
         <td>{{$data2['content']}}</td>
-    </tr>
-        
-        @endforeach
+    </tr>   
+    
+    @endforeach
     </ul>
 
     </table>
